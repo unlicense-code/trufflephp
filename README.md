@@ -78,4 +78,4 @@ Non exhaustive list of features:
 ## License
  - Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
   - All existing code authored by People Mentioned in AUTHORS
- - Everything else The Unlicense.
+ - Everything else The Unlicense. or if it is a Dependencie its License stays valid for it self.
